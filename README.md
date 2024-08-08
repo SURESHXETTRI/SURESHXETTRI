@@ -6,7 +6,7 @@
       <br>
      <p align="center">
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=HARRY-EXE&data=followers,repositories,stars,commits&theme=viridescent"/>
-       <h5 align = "center" >I'm Harry from Nepal, a Python programmer.Showcasing my proficiency in software development. I've successfully delivered more than 23 of impactful projects ! </h5>
+       <h5 align = "center" >I'm SURESHXETTRI from Nepal, a Python programmer.Showcasing my proficiency in software development. I've successfully delivered more than 23 of impactful projects ! </h5>
 </div>
     <td>
       <img alt="gif" src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/6b433417-45b5-4bc9-ac0a-b74521e398ae">
